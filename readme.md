@@ -44,8 +44,8 @@ The tool integrates multiple structural and dynamical analysis methods within a 
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/MD-Trajectory-GUI.git
-cd MD-Trajectory-GUI
+git clone https://github.com/Ashish-biocode/TrajAn-Trajectory-Analyzer-Tool.git
+cd TrajAn-Trajectory-Analyzer-Tool
 ```
 
 ### 2. Create Environment (Recommended)
@@ -93,8 +93,7 @@ Then:
 If you use this tool in your research, please cite:
 
 ```text
-Gupta, A, Purohit R. (2026). TrajAn: (Trajectory Analyser): An interactive python based graphical user interface (GUI) to analyse molecular dynamics simulation trajectories. [Journal Name]. DOI: XXXXX
-```
+Gupta, A, Purohit R. (2026). TrajAn: (Trajectory Analyser): An interactive python based graphical user interface (GUI) to analyse molecular dynamics simulation trajectories.
 
 You can also use the GitHub citation feature.
 
