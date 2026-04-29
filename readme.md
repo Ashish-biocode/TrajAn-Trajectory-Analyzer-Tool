@@ -128,6 +128,14 @@ Computational Drug Discovery Researcher
 
 ---
 
+## 🔗 Example Files
+
+The .gro and .tpr files are provided with teh total tool package on github. The large trajectory (.xtc) file is hosted on Zenodo:
+
+https://doi.org/10.5281/zenodo.19884016
+
+---
+
 ## ⭐ Support
 
 If you find this work useful:
